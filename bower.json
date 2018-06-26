@@ -1,0 +1,17 @@
+{
+  "name": "Car Registration API",
+  "authors": [
+    "fiach <fiach.reid@gmail.com>"
+  ],
+  "description": "A javascript API to look up car details from a number plate, requires a username from www.regcheck.org.uk",
+  "main": "api.js",
+  "keywords": [
+    "api",
+    "car"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.regcheck.org.uk",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
